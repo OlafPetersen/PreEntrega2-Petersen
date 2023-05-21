@@ -25,6 +25,7 @@ nav {
     padding-left: 90px;
     padding-right: 5%;
     font-weight: bold;
+    width: 100%;
 
 }
 
@@ -94,6 +95,8 @@ a {
 
 .seccion2home {
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .seccion2desy {
@@ -118,7 +121,7 @@ a {
 }
 
 .divsection2 img {
-    width: 300px;
+    width: 280px;
 }
 
 .divseccion3 {
@@ -173,3 +176,4 @@ footer h1 {
     font-size: medium;
     text-align: center;
 }
+
