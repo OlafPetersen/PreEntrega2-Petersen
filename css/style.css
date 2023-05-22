@@ -63,7 +63,7 @@ a {
     background-image: linear-gradient(
         rgba(156, 47, 208, 50%),
         rgba(156, 47, 208, 50%)
-    ), url(/img/Diseño\ sin\ título\ \(3\)\ 2\ \(1\).jpg);
+    ), url(../img/Diseño\ sin\ título\ \(3\)\ 2\ \(1\).jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -75,7 +75,7 @@ a {
 
 #seccion1donahoy {
     color: white;
-    background-image: url(/img/Dona\ hoy\ 1.png);
+    background-image: url(../img/Dona\ hoy\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -83,7 +83,7 @@ a {
 
 #seccion1desayuno {
     color: white;
-    background-image: url(/img/Diseño\ sin\ título\ \(5\)\ 1.png);
+    background-image: url(../img/Diseño\ sin\ título\ \(5\)\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -92,7 +92,7 @@ a {
 
 #seccion1contact {
     color: white;
-    background-image: url(/img/contacto\ 1.png);
+    background-image: url(../img/contacto\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
