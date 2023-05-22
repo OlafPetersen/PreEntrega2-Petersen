@@ -55,6 +55,7 @@ a {
 .title4 {
     color: white;
     background-color: #F49A18;
+    height: 100px;
 }
 
 #seccion1home {
@@ -62,16 +63,19 @@ a {
     background-image: linear-gradient(
         rgba(156, 47, 208, 50%),
         rgba(156, 47, 208, 50%)
-    ), url(img/Diseño\ sin\ título\ \(3\)\ 2\ \(1\).jpg);
+    ), url(/img/Diseño\ sin\ título\ \(3\)\ 2\ \(1\).jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
 }
 
 #seccion1donahoy {
     color: white;
-    background-image: url(img/Dona\ hoy\ 1.png);
+    background-image: url(/img/Dona\ hoy\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -79,15 +83,16 @@ a {
 
 #seccion1desayuno {
     color: white;
-    background-image: url(img/Diseño\ sin\ título\ \(5\)\ 1.png);
+    background-image: url(/img/Diseño\ sin\ título\ \(5\)\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
+    height: 300px;
 }
 
 #seccion1contact {
     color: white;
-    background-image: url(img/contacto\ 1.png);
+    background-image: url(/img/contacto\ 1.png);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
@@ -116,8 +121,6 @@ a {
 .divsection2 {
     background-color: rgba(156, 47, 208, 26%);
     display: inline-block;
-    width: 300px;
-    height: 550px;
 }
 
 .divsection2 img {
@@ -137,7 +140,6 @@ a {
 }
 
 .aseccion1 {
-    text-decoration: none;
     font-weight: bold;
 }
 
